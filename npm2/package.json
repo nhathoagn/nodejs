@@ -1,0 +1,18 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hoang",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "mocha": "^9.0.2"
+  }
+}
